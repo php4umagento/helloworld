@@ -1,0 +1,23 @@
+{
+    "name": "magedesigner/magento2-first-module",
+    "description": "Hello world module using composer!",
+    "require": {
+    },
+    "type": "magento2-module",
+    "version": "1.0.2",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "LumbralesSoftware/HelloWorld"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "mage designer",
+            "homepage": "https://www.artwebsolutions.com/",
+            "role": "Developer"
+        }
+    ]
+}
