@@ -1,19 +1,11 @@
 <?php
-namespace LumbralesSoftware\HelloWorld\Controller\Index;
+namespace Php4u\HelloWorld\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\View\Result\PageFactory;
 use Magento\Framework\App\Action\Context;
 use Magento\Framework\View\Result\Page;
 
-/**
- * Index
- *
- * @package
- * @version $id$
- * @copyright 2015, Lumbrales Software
- * @author Javier Carrascal <info@lumbrales-software.com>
- */
 class Index extends Action
 {
     /**
